@@ -14,9 +14,9 @@
     <header>
         <div class="container">
             <h1>
-                This is my first project with Laravel!
+                This is the about page!
             </h1>
-            <a href="about-page" type="button" class="btn btn-primary">GO TO ABOUT</a>
+            <a href="/" type="button" class="btn btn-primary">GO TO HOME</a>
         </div>
     </header>
 </body>
